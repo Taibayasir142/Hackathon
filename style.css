@@ -3,6 +3,37 @@
     src: url(fonts/Roboto-Regular.ttf);
 }
 
+.navbar-brand {
+  font-size: 1.5rem;
+  color: #f16521 !important;
+}
+
+.search-bar {
+  width: 100%;
+  max-width: 500px;
+}
+
+.navbar-icon {
+  font-size: 1.2rem;
+  color: #000;
+}
+
+.category-link {
+  font-size: 0.9rem;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+.search-btn {
+  background-color: #f16521;
+  color: white;
+  border-radius: 50%;
+  border: none;
+  margin-left: -35px;
+}
+
 .container{
     font-family: Roboto;
     font-weight: 500;
@@ -13,3 +44,45 @@
 .bg-color{
     background-color: rgb(140,138,240);
 }
+
+.footer-subscribe {
+    background-color: #cce7ff;
+  }
+
+  .footer-main {
+    background-color: #001a5d;
+    color: white;
+  }
+
+  .footer-main a {
+    color: #a8c1ff;
+    text-decoration: none;
+  }
+
+  .footer-main a:hover {
+    text-decoration: underline;
+  }
+
+  .footer-app-btn {
+    background-color: #4d4dff;
+    color: white;
+    border-radius: 25px;
+  }.footer {
+    background-color: #222; /* Dark background */
+    color: #fff; /* Light text color */
+    font-size: 0.9rem;
+  }
+
+  .footer a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .footer a:hover {
+    text-decoration: underline;
+  }
+
+  .footer .separator {
+    margin: 0 10px;
+    color: #ccc;
+  }
