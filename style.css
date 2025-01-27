@@ -1,0 +1,15 @@
+@font-face {
+    font-family:Roboto;
+    src: url(fonts/Roboto-Regular.ttf);
+}
+
+.container{
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 13px;
+    color: rgb(34, 34, 34);
+}
+
+.bg-color{
+    background-color: rgb(140,138,240);
+}
